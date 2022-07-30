@@ -1,1 +1,1 @@
-EazyRead is library management system. The purpose of the Library Management system is to store details of books and allow Librarian to add, issue,and return books. It also allow admin to add Librarian accounts and students to register for new account and search for available books . 
+EazyRead is library management system. The purpose of the Library Management system is to store details of books and allow Librarian to add, issue, and return books. It also allow admin to add Librarian accounts and students to register for new account and search for available books . 
